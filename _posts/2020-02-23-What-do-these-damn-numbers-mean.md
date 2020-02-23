@@ -1,7 +1,7 @@
 ---
 title: 'What do these damn numbers mean'
 date: 2020-02-23
-permalink: /posts/2012/08/what-do-these-damn-numbers-mean/
+permalink: /posts/2012/08/What-do-these-damn-numbers-mean/
 tags:
   - teaching
   - personal
