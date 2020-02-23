@@ -1,7 +1,7 @@
 ---
-title: 'Hello Down there'
+title: 'Hello down there!'
 date: 2020-02-16
-permalink: /posts/2020/02/blog-post-1/
+permalink: /posts/2020/02/Hello-down-there/
 tags:
   - personal
 ---
