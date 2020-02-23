@@ -1,7 +1,7 @@
 ---
 title: 'What's the formula of these damn numbers?'
 date: 2020-02-23
-permalink: /posts/2012/08/what's-the-formula-of-these-damn-numbers/
+permalink: /posts/2012/08/whats-the-formula-of-these-damn-numbers/
 tags:
   - teaching
   - personal
