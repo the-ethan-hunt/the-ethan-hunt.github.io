@@ -1,6 +1,6 @@
 ---
 title: 'The train missed the station'
-date: 2015-08-03
+date: 2020-08-03
 permalink: /posts/2012/08/The-train-missed-the-station/
 tags:
   - personal
