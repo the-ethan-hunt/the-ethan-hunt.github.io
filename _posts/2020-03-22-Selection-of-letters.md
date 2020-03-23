@@ -16,13 +16,13 @@ This virus thing has got me down with work at home too. I recenty shifted all my
 Coming back to the book, I am almost finishing it and saw two letters I like to share. First the funny one:
 
 ## Letter 1: 
-![alt text](https://github.com/the-ethan-hunt/the-ethan-hunt.github.io/blob/master/images/20200322_203644.jpg "Logo Title Text 1")
+![alt text](https://the-ethan-hunt.github.io/images/20200322_203644.jpg "Logo Title Text 1")
 
 In case the letter seems in a different language, tilt that head of yours and see: it's written in English. It is a letter by Prof. Feynman to a conference he was invited to attend. The moment I read "On item 1 what the hell..." I started hearing his "what the hell" from the audo "Los Alamos from Below" and started laughing for a solid 5 minutes. The goofiness in Prof. Feynman is something we should try to emulate no matter who we are. It's dopey and makes the other person smile. Now, if that person be someone you have a liking to, best of luck to your endeavors!
 That' what I like aboyt Prof. Feynman. Nobel Prize Winner, Princeton grad, CalTech prof..who in the world cares? Just enjoy life with a spoonful of goofines in it.
 
 ## Letter 2
-![alt text](https://github.com/the-ethan-hunt/the-ethan-hunt.github.io/blob/master/images/20200322_203858.jpg)
+![alt text](https://the-ethan-hunt.github.io/images/20200322_203858.jpg)
 
 This is more of a serious letter from a lecturer Frank Potter to Prof. Feynman who used to go with him to Hughes Research Lab every weekend. Bruce Winstein once asked Prof. Feynman "If you could do something different in your career, wat would it be" to which Prof. Feynman replied "I would try to forget how I had solved a problem. Then each time the problem arose, I would solve it in a different way...."
 This is very similar to his quote: "There is pleasure in recognizing old things from a new viewpoint." You try to look at anything, not just a academic problem but perhaps a life experience now and compare how you were reacting to it and it might make you happy that you have done better (or worse). I see the spring 2018 about how dejected I was over some stuff and now that I have put it all behind and am enjoying here doing research and what have you. It totally makes the absolute sense. In case it does, I would advise you to go to hell.
