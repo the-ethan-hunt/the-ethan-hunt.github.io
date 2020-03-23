@@ -1,7 +1,7 @@
 ---
 title: 'The train missed the station'
-date: 2020-08-03
-permalink: /posts/2012/08/The-train-missed-the-station/
+date: 2020-03-08
+permalink: /posts/2020/03/The-train-missed-the-station/
 tags:
   - personal
 ---
