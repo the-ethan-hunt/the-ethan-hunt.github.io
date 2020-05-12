@@ -1,7 +1,7 @@
 ---
 title: 'The one with Dr. Feynman's birthday '
 date: 2020-05-11
-permalink: /posts/2020/05/The-one-with-Dr-Feynman's-birthday/
+permalink: /posts/2020/05/the-one-with-Dr-Feynman's-birthday/
 tags:
   - personal
   - COVID19
