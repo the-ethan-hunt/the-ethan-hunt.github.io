@@ -13,4 +13,4 @@ Looking at recent surge of COVID19 cases in the states of Arizona, Florida and C
 
 One important thing to note here is the resurgence of cases in China which has meant the country will go gain in lockdown except for essential services like hospitals. The services which will lock down include schools- that means school were never essential. And that is bloody true for one learns everything by self-study only. To quote the great John Nash, Jr, "classes will dull your mind, destroy the potential for authentic creativity". You need to think stuff, not just memorize it.
 
-I don't have much to talk about so adios!
+One thing where I feel weakened is my technical writing skills- I suck at writing and now this feels like a giant task- writing papers and in the future , grants in academia. And I am reading blog posts and asking to friends in research but I have hit a wall- seems I need to break through the wall to learn it.
