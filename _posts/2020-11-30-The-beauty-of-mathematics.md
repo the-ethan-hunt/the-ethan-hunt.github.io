@@ -1,7 +1,7 @@
 ---
 title: 'The beauty of mathematics '
 date: 2020-11-30
-permalink: /posts/2020/011/The-beauty-of-mathematics/
+permalink: /posts/2020/11/The-beauty-of-mathematics/
 tags:
   - personal
   - COVID19
