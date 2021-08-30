@@ -1,7 +1,7 @@
 ---
 title: 'Supposedly six months later '
 date: 2021-08-08
-permalink: /posts/2020/11/Supposedly-six-months-later/
+permalink: /posts/2021/08/Supposedly-six-months-later/
 tags:
   - personal
   - COVID19
