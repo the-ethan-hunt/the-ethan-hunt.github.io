@@ -2,7 +2,7 @@
 title: 'Mission and vision statements '
 collection: grad5104
 date: 2021-09-13
-permalink: /grad5104/2021/09/Mission-and-vision-statements/
+permalink: /grad5104/2021-09-13Mission-and-vision-statements/
 ---
 
 Hello there!
