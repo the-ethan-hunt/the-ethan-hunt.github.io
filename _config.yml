@@ -187,6 +187,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  grad5104:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -213,6 +216,15 @@ defaults:
   - scope:
       path: ""
       type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _grad5104
+  - scope:
+      path: ""
+      type: grad5104
     values:
       layout: single
       author_profile: true
