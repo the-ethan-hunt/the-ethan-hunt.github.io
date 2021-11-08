@@ -1,0 +1,13 @@
+---
+title: 'Technology and Innovation in higher education '
+collection: grad5104
+date: 2021-10-25
+permalink: /grad5104/2021-10-25-Technology-and-Innovation-in-higher-education
+---
+
+Hello again! This week, we are discussing about Technology and innovation and its applications like MOOcs and social media in academia. I was drawn to [this post](https://blogs.lse.ac.uk/impactofsocialsciences/2021/01/14/in-2021-lets-do-institutional-academic-social-media-better/) on the London School of Economics Blog which promoted the idea of growing the outreach of institutional social media after the pandemic.
+
+The article argues that social media is another way of reaching to a wider audience, showing what your research group does, its major achievements and its farewells to graduating students outside the group also. There is a lot of reluctance among academics on using social media who don't call it as work. It can be easy just to post/tweet happy stories to show everything goes amazing in the group (a major argument in my anecdotal experience among several academics is there isn't a lot of good news to post and hence accounts become run-down in some time). 
+It is not necessary to ~plot~ post just good stuff on social media. Maybe, something just in general (maybe a lab dinner or a Christmas party!) or even something that does not work out- so as to show research is fuls of ups and downs and not as hunky dory as one would see in sitcoms (I am staring right at you, The Big Bang Theory). The post goes further to advise the lab leader (usually the professor) not to hand it to someone just because they are junior/young or because it's 'not work' and 'anyone can do it'. Rather it could be easily handed over to a team of personnel who know how to handle social media, how to shut it off when needed and increase the lab's outreach globally. The use of social media as a professional means would be reflected in the graduated members too especially if they are heading into academia as group leaders themselves!
+
+The post warns about an important thing here- reputation. Social media has opened a floodgate of problems and research groups should be aware to build a dam for reputation management. Responding in a timely and polite manner, screen-capturing issues and reporting the troll are some of the key tricks recommended instead of shutting the shop down and starting fresh. The article talks about how using social media can help disseminate information, have greater reach and encourage collaborations on platforms where mostly today is a conflict between various political ideologies. I find the article more inclined to using social media for outreach rather than shutting it off to prevent toxicity. 
