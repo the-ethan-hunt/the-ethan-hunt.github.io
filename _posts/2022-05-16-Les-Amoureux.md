@@ -72,7 +72,7 @@ l’été d’amour <br> <br>
 Encore commence l’année,<br>
 Une nouvelle coqueluche, ça pourrait prédestinée ? <br>
 pour quelqu’un, le cycle continue,<br>
-pour l’autres, il attend pour l’imprévu <br>
+pour l’autres, ils attendent pour l’imprévu <br>
 aux rares qui se stabilisent, je vous salue,<br>
 pour vous les gars, tout est bien qui finit bien, je conclue <br>
 tout est bien qui finit bien, je conclue <br>
