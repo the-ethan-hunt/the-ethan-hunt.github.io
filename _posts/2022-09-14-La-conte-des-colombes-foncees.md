@@ -8,8 +8,10 @@ tags:
   - poetry
 ---
 
-Rebonjour ! Ça fait environ quatre mois que j’écris quelque nouveau. Mais, j’était occupé avec beaucoup de choses à faire et j’ai pas l’inspiration à écrire quelque chose intéressant. En plus, cette fois, j’ai trouvé écrire quelque truc très difficile (vous connaîtrez bientôt !)
-L’été pour moi, c’était époustouflant. Je suis allé en France pour la première fois et j’étais complètement surpris que je parle français sans difficulté. J’ai souvent fait des conversations banales à l’arrêt du bus ou des restos ou des gares et beaucoup de gens m’ont apprécié. Ça me fait très encourageant et motivant.  Quand j’aurais dit que je viens des États-Unis, on m’a souvent demandé si j’ai grandi en France car mon français était génial. Mais moi, vous connaissez si vous coupez ma main, à place de sang, vous allez voir le merlot qui vient de Bordeaux :P
+Rebonjour ! Ça fait environ quatre mois que j’écris quelque nouveau. Mais, j’était occupé avec beaucoup de choses à faire et j’ai pas l’inspiration à écrire quelque chose intéressant. En plus, cette fois, j’ai trouvé écrire quelque truc très difficile (vous connaîtrez bientôt !) 
+L’été pour moi, c’était époustouflant. Je suis allé en France pour la première fois et j’étais complètement surpris que je parle français sans difficulté. J’ai souvent fait des conversations banales à l’arrêt du bus ou des restos ou des gares et beaucoup de gens m’ont apprécié. Ça me fait très encourageant et motivant.  Quand j’aurais dit que je viens des États-Unis, on m’a souvent demandé si j’ai grandi en France car mon français était génial. Mais moi, vous connaissez si vous coupez ma main, à place de sang, vous allez voir le merlot qui vient de Bordeaux :P <br>
+<br>
+<br>
 Aujourd’hui j’apporte un poème qui je n’ai pas écrit. Le poème était originalement en espagnol par M. Federico García Lorca au nom de << Casida de las palomas oscuras >>. C’était un très beau poème avec beaucoup de sens caché surtout sa sexualité. Pour moi, il représente l’idée du secret et comment on cache notre identité à s’intégrer dans un groupe ou car on ne semble pas comme faible ou sensible. Puisque le poème est écrit en espagnol, j’ai dû comprendre sa traduction, son sens et essaie à traduire en français mais pas perdre sa signification. Donc, pour les mecs qui comprennent tous les deux ou seulement espagnol, voici le poème original :
 <br>
 ### Casidade las palomas oscuras
